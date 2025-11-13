@@ -1,2 +1,2 @@
-# Cisco Networking Academy
+## Cisco Networking Academy
 ### Career Path with Intel - Introduction to Generative AI
